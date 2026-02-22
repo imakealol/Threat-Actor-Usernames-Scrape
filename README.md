@@ -21,7 +21,7 @@ Other uses for these lists:
 - pick a random username from these lists and adopt it for yourself on another forum or platform to mask yourself a bit and to confuse some researchers/LE
 - use the data to send PM spam on the forums
 - do some cool nerd data science things
-- track a threat actor username across multiple forums
+- track a threat actor username across multiple forums to see which ones they are on
 
 # Scraped Forums 📃
 
