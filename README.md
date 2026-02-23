@@ -251,7 +251,7 @@ old tlds: BreachForums.jp
 
 **Date Range of scrape:** December 18 2025 --> current date
 
-**Amount:** 32,625
+**Amount:** 33,649
 
 ----
 
