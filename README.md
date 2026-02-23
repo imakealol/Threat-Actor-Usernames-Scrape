@@ -319,7 +319,7 @@ The usernames in this list are scraped from posted threads.
 
 **Date Range of scrape:** February 5 2026 --> current date
 
-**Amount:** 2,482
+**Amount:** 2,760
 
 ---
 
