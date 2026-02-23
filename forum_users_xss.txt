@@ -12,6 +12,7 @@
 0urTh1ng
 0way
 0x00x0
+0x04
 0x3a
 0xCode
 0xEEEE
@@ -23,6 +24,8 @@
 0xmorzh
 0xp4c3
 0xrick
+0xrm_aax
+0xyg3n
 0zero
 108111118101
 1095069697
@@ -41,6 +44,7 @@
 2c71e9
 34hEsvLUwFcg
 3aytsev
+3gabra
 3r5adfs2awedsadsad
 3th
 404
@@ -52,6 +56,7 @@
 4el1337
 4ert
 4wayswing
+500mhz
 520
 627sticks
 7dev
@@ -76,6 +81,7 @@ AURUS_77
 AVAX_Hacking_Group
 AWUNGARD
 AXE-Changer
+AZZAR
 Abnoxa
 Absconder
 AccStore
@@ -106,6 +112,7 @@ Alphy
 AltaOK
 Alzheimer
 Amazon
+Amazon11x1
 Amnezzua
 AnasStop
 Ancryno
@@ -127,6 +134,7 @@ AntiScammers
 Antman090
 Anwar
 Anya0x0
+ApexDev
 Apocalypse
 ApollonD
 Aquatic Panda
@@ -149,6 +157,7 @@ Audit_Team
 AuraCorp
 Authorize
 Ax3sP03a2
+Axelrode2026
 AzazeLien
 Azazel321
 Azok
@@ -250,6 +259,7 @@ BuyKall
 BuyKycDocs
 C0rtex
 C2flow
+C3F3R
 CKAP
 CODE XREF
 CSA_software
@@ -281,6 +291,7 @@ CheckerChin
 Chicha07
 Chifir_Fxx7
 Chococream
+Chomik
 Chook
 ChromaxDesign
 Cl0Ud5
@@ -292,6 +303,7 @@ Colibry_Supp
 Colsw
 Compiler
 Conjurer
+ConnectXSS
 Coockie
 CoreLab
 Corei7Gen
@@ -316,6 +328,7 @@ CryptX
 CrypterSeller
 Crypto Locker
 CryptoDoberman
+Cryptor
 Crystal1337
 CrystalZhang09
 CtrlZero
@@ -355,6 +368,7 @@ DarkDaemons
 DarkFade
 DarkMatter
 DarkMatter74
+Darkeen
 DarknessPrince
 Darkness_dark
 DarthVader
@@ -392,6 +406,7 @@ Diter676
 Dizarted
 Dmitri0x0
 Dodic
+Dodokoin
 DollarShade
 Domainstore
 DomiiiinicK
@@ -430,6 +445,7 @@ Encommerce
 Engil
 Englishmen22
 Enigma_Traf
+Enj
 Eritas
 EscapismQ
 Esckeit
@@ -447,6 +463,7 @@ ExodusMarket
 ExodussAB
 ExploitXdevpro
 Exvoid
+F0rms
 F36b
 FLOKI
 FOXYFOX
@@ -471,6 +488,7 @@ Finix
 Flame
 FlashCat
 FlashCry
+FlexMarket
 Flexboi
 FloodKilla
 Fltyxy
@@ -498,6 +516,7 @@ G100M
 GA-I9000
 GGlough
 GHOSTRO
+GOATSELFREG
 GR33Nday
 GRAF_TYTA
 GTRC
@@ -514,16 +533,21 @@ Gehenna
 Gelel
 GeliosStudio
 Gemfory_
+GenWolf
 Gennady Abdulov
 Gentare
 Georges1992
+Gerion
 Gerry
 GeshaRB
 Ghost Casper
+Gi_energi
 GlasGlaz
+GlitchGV
 Globalwinner228
 GlowComa
 GlowingOne
+Gnida
 GoGaB0HGa
 GoGaBoHGa
 GoldShadow
@@ -534,6 +558,7 @@ Goostar
 Gore
 Gorglueman
 Gorgon
+Gorosin
 Governor
 GrafDeLaFer
 GrafKura
@@ -553,6 +578,7 @@ HASH BROKER SERVICE
 HNH CRYPTO
 HVRSH
 HYF
+HackDark
 HackerJune
 HackingRealm
 Hadi Taktash
@@ -614,9 +640,12 @@ Interber
 Interpoll
 Iridium
 ItzzN
+Izmailovskiy
+JDiLlaMember
 JP_Morgan
 JTatum
 JUST_MORI
+JWHB
 JackHub
 JackJ
 Jackal
@@ -636,6 +665,7 @@ JonnySilver
 Joow
 Jostrand
 Joynses
+JoystickJohnie
 Jubby
 Judgin
 Juk022
@@ -657,6 +687,7 @@ Kadis
 Kaimi
 Kain
 Kaiz
+Kaizen
 KakToTak
 Kalopol
 KarinaAff
@@ -689,6 +720,7 @@ Knew100
 Knight
 Kodex
 Koko_toh
+Kolde
 Kolkapetkinsyn
 Komisstu
 Koonede
@@ -720,6 +752,7 @@ LegolasGL
 LenAI
 Lena Marlowe
 Leoman
+Leon74
 Lerod
 Lezginka
 Li-
@@ -743,6 +776,7 @@ Lost001
 LostMyMind
 Lowbanger
 Ls39kam
+Lteasy
 LuciferXFiles
 LuckyExchange
 LumenSend
@@ -753,6 +787,7 @@ Lunnayan
 LyX
 M0N3Y777_
 M0rk
+M1rlboro
 M3lw0rm
 M3rlin
 M3xan1k
@@ -790,6 +825,7 @@ MasterValeriy
 Mastershareholder
 Matanbuchus
 Matroskin
+Matteo
 Maverick
 Mavka
 MaxUp
@@ -860,6 +896,7 @@ National Hazard Agency
 Naver
 Navie
 Necrophos
+Neelix
 NeonVip
 Nerius
 NetworkBrokers
@@ -883,6 +920,7 @@ No1european_shop
 Nobleris
 NoirSolana
 Noizefan
+Nomix
 Nosymptoms
 NotCat
 Novenki
@@ -903,6 +941,7 @@ Omezik
 One shot - One hit
 OneCard502
 Onyx1050
+Onyxov
 Opa334
 OpenBrock
 Oplot
@@ -930,8 +969,10 @@ Pass_the_hash
 Pathogen
 Pavel Durov
 Paxom
+Peace
 Pelegrim
 Pennywise
+Pentagram
 Pernat1y
 PerspiringKiwi
 Pest
@@ -953,19 +994,24 @@ Pozzitive11
 Priivate2025_
 Princesslady
 Prinyal
+PrivateService
 PrivilegesGenius
 Pro100boY
 ProTeuS
+ProxyBurning
 ProxyWins
 Prozone
 Pudin
+Pushik
 Putichka
 PwnCheck
 Pxiolit
 QAZWSX
+Qasro
 Qebet
 Qfin
 Qol
+Qrushe
 Quake3
 R00tkit
 R1derSp33d
@@ -983,7 +1029,9 @@ Racoon
 Radik
 Ram0s2
 RandomName
+Rashaus
 Raz0rStr1ke
+Rdpnd59
 ReSources
 ReactRaven
 Reboot Inc
@@ -1035,6 +1083,7 @@ Rupert
 Ruslan Borisovich
 Russian_Coder
 RykiNogi
+Rymski
 Rysuca
 S O V A
 S-W-I-F-T
@@ -1046,6 +1095,7 @@ SGL
 SHADOWRELAY
 SILITE
 SMB
+SMSRoute-cc
 SMacGregor
 SSN247
 SSNDOB_ORG
@@ -1066,9 +1116,11 @@ SamuraiDD
 Sanitater
 Satanium
 SatoshiNakomoto
+Saturday
 Savillrow
 Scama
 Scarecrow
+Scarlet
 SebastianDAlex
 Sec13B
 SecureHost
@@ -1086,6 +1138,7 @@ ShadowMan
 Shaolin
 Shark_Boss
 Shaurmist25
+ShellDone
 ShinyHunters
 Shtefan
 SilentLucidity
@@ -1103,6 +1156,7 @@ Slaytoafk
 SlitOK
 Sloomy
 Slowly
+Smagul
 Smartik
 Smaug
 Smilek
@@ -1144,6 +1198,7 @@ SupaFinCook
 Supersonic
 SuppWS
 SureWhy
+SweetyAlex
 SyCo
 Synthesis
 T3atral
@@ -1160,6 +1215,7 @@ Taikoon
 TankTheFrank
 Tarx
 TeamBack
+TeamBank
 Technicholl
 Tegyrios
 Temas
@@ -1173,6 +1229,7 @@ The CaT
 The Outsiders
 The404
 TheBadeut
+TheDude23
 TheExample
 TheHolyPePa
 TheInsider
@@ -1204,13 +1261,16 @@ Trent
 Triada
 TrickStar
 TriffMaster
+Trityo
 Trrrw2s
 TrudnyiVozrast
 TrupServ
 TrustProxyIO
 TryNinja
+Tvori_Dobro
 Tw1x88
 TwentyOne
+Twizzy
 UFO MARKET
 UNTLD
 USA_Straday
@@ -1218,6 +1278,7 @@ USDeez
 US_ER_01
 UmaxSoft
 Umbrella
+UniqueCombo
 Unk
 UnsafeInternet
 Uruk-hai
@@ -1231,8 +1292,10 @@ V1rtu4lM4tr1x
 V1rtualGh0st
 V3s3mir
 VFTFree
+VMjack
 VVSO4KA
 Vacation
+Vakra
 Valhall
 Vance90
 VanderKraken
@@ -1264,6 +1327,7 @@ Volcan
 Volsakor
 Voltor
 Volts
+Voron
 Vosa223
 Vultrax
 W3W
@@ -1271,12 +1335,16 @@ WANNAKILL
 WPShellsR
 Wacatac
 WalletAM_AM
+Wanderer_Traffic
 Web47
 WebCrypt
 Wertylet
 Westfield2
 Whisper
+WhiteBeer
+Whiter Rose
 WillBeRich
+Winnie-the-Puff
 Winux
 WitchDoctor
 Wiz
@@ -1292,6 +1360,7 @@ XOXOACCOUNTS
 XSS
 XSSBot
 XSSer
+XSocks
 Xavierlaoxue
 Xenoaman
 XfrancuseX
@@ -1348,6 +1417,7 @@ adidas25
 adisback
 admin
 adsgard
+adx660xx
 aezaaeza
 aezakmi1239
 after_day
@@ -1387,6 +1457,7 @@ andrey_apt
 anfisbena
 angel495
 angrypat
+ankit_hossain
 antiheros
 antikrya
 antikwar
@@ -1398,10 +1469,12 @@ arbadakarba2000
 arcteryxSE
 arkhitektor
 armadillo
+armando
 arnoldscwatt19
 arsium
 art_moneys
 artcic2
+assistant_new
 assspizza
 astrax64
 asus
@@ -1412,6 +1485,7 @@ atom_Samurai
 att4ck
 attesaer
 autocrypt
+avangard
 avanpost20
 avia
 axelrode
@@ -1422,7 +1496,9 @@ azazello1998
 azbuka_morze
 azcord
 azercuriel
+azq
 azrek
+b1n
 b3hindYou
 b4rts1mps0n
 b4ssb4b33
@@ -1432,7 +1508,9 @@ babuin88
 babuka
 bacha
 back0n
+back_past
 backuper
+badn3t
 badop69
 baggins
 balaena
@@ -1457,6 +1535,7 @@ belogwardeets
 bemka
 beneca
 benjimain33
+beooeef
 bephomai113
 besenok
 betmoose
@@ -1499,6 +1578,7 @@ bob liboot
 bobbideb
 bogatir
 bombardieru
+bonsuooooor
 boost
 bootledger
 boriselcin
@@ -1524,6 +1604,7 @@ bullx
 bumpk1nwrkk
 bunar1
 burstmode
+buyclock
 bxxxx_1
 byfly
 byt3r0se
@@ -1535,9 +1616,11 @@ c2yp70
 caboose
 caffeeine
 calmiox1
+campanya
 canva
 capitaine
 capital-love
+captainbtw
 carderpro
 carding
 carnaval
@@ -1561,31 +1644,38 @@ checkyou
 chepush
 cherabeliy
 chiefchain
+chilintano
 chmod_777
 chopovec
 chrissolskjaer1
 chuchak
 chukkyangel
 citrixDA
+civilist
 civilwarrrior2
 ckat_soft
+clackbunny
 clarkkkk
 clearstore
 clindamycin
 cloudkiller
+clsdoc
 cmcoder
 cocok
 coder
 coder131313
 codesuprime
 codyptacek66
+cola_vanilla
 coldblunt
 complete
 coopermade1
+coordinator
 corax
 coree
 cortana9000
 cracka
+crackinger
 crawlingmfer
 creativ_brain
 creeper44
@@ -1606,6 +1696,7 @@ cyberbob
 cyberoID
 cybers
 cynikal
+cynonimax
 d0nt_cont
 d1ceB4t
 d3layed
@@ -1614,6 +1705,7 @@ d4rkpwn3r
 dRag00n
 daddu3202
 daemoniac
+dageron
 danger1488
 dangerboy
 danilarushik
@@ -1624,8 +1716,10 @@ darkman666
 darkodesolo
 darkoja
 darksoftware
+darlak
 darw1n
 databoss
+datahack
 datebae
 dci
 dd1kie
@@ -1646,6 +1740,7 @@ design
 detalist
 deu5n
 developerdude
+device7713
 devka
 dexterra
 dez
@@ -1658,12 +1753,14 @@ disc0verer
 dispatcher
 distamx
 divoki
+divx
 djony
 dkwhoami
 dmitriblovv
 doZKey
 doesenemo
 dokaETH
+doktor
 dolyavora
 donskoy
 dort
@@ -1680,6 +1777,7 @@ drmk777
 drops
 drotha2
 duk
+dungxss
 dunkel
 dv34
 dvxmode
@@ -1687,23 +1785,29 @@ dwongz
 dxcpw
 ebat_kolopat
 ebaypower
+ec0n0m1st
 edward0666
 eidolon_hex
 el-
 el-farado
 el84
+eldemidm
 eleph4nt
 elice
 eliitas
 elizabethblade
 elonsey
+elpintodepaso
 elvis
 elzar
 emberdy
+emo098ui
 empr3ss
 enjey
 enjoyer
 enlarger
+entr0py
+error0xc000000b
 error_4O4
 esco
 estk
@@ -1719,6 +1823,7 @@ evolution
 examplens
 exit
 exloader
+exodi
 exodus365
 expert_kalash
 exq
@@ -1735,8 +1840,10 @@ fastfire
 fastuser123
 fenomium
 feorotmaSs
+ferdi29
 fetronordo
 fewfe
+ffs
 fidel
 finduser
 firemans
@@ -1749,13 +1856,17 @@ flo
 fmooox
 fondness
 for4for2
+forever
 forgehelm
 fotcheu
 foxdrw
 foxlye
 foxsoft
 foxydrop
+francaisx
 frankandersons2022
+fraulab
+free_citizen
 friedlove
 frolti
 frtrue
@@ -1799,6 +1910,7 @@ goloverez
 gomazaru
 goodybag1
 google_
+gopnik
 gorgonsz
 gotolearnpls
 goydo4ka
@@ -1858,6 +1970,7 @@ honda
 horker_kalix
 hoyosteal
 htcode
+humanPie
 hunterkash
 hunts
 hustleTraffic
@@ -1866,6 +1979,7 @@ hwy16888
 i0pht
 i10
 iMavrodi
+iRobot
 ice80
 icerackz
 idenVersio
@@ -1880,6 +1994,7 @@ injector1316
 inna911
 inspectorgadget
 integraGT
+intelx
 interdebug
 ioioio777
 iowyks
@@ -1887,6 +2002,7 @@ ipaulsmith
 ips
 irebel7
 iron
+ishark
 ishka
 iskaprox
 issasplash
@@ -1901,6 +2017,7 @@ jaba1234
 jacklove
 jair8hb
 jamesbond007
+jamilois
 jaros
 jaskolka
 javascriptbypass
@@ -1910,12 +2027,14 @@ jenk
 jeweleronion
 jhonwick1990
 jmoon
+jobv
 joe88
 jogel2424255
 johndoe452
 johndoe7
 jokowi666
 jolkha
+joshuael87
 jperes82
 jubss
 jumpeqw12
@@ -1928,7 +2047,10 @@ k4rk4j0i
 kX0r
 kadis0
 kahnwalddjonas
+kakkkbakk
 kaktustest
+kalashinikov
+kalilola
 kalonialization
 kamzzzzz
 kanroiden
@@ -2001,11 +2123,13 @@ lacosta29
 lali111
 larp1ngs
 larryalcina
+larryflint
 larsI
 lazerdim
 lbrnzxc
 lbsparks
 ldmx
+lead01
 leadtheway
 learner
 lebovsKiy
@@ -2042,6 +2166,7 @@ logiccoder
 logs_buyer
 logscraper
 lolka228
+lols666
 longman
 looonely_creature
 lootang
@@ -2085,6 +2210,7 @@ maminsibiryak
 mamosito
 man514lo
 mango
+manley
 mantis
 mantra
 marcelloff
@@ -2098,7 +2224,9 @@ maxim1of1
 mazikeen
 mc_snus
 mcgp
+mcgrinko
 mddbs
+mdmadik
 mebiusss
 medusabit1
 medvedev
@@ -2138,12 +2266,14 @@ moniki456
 mono
 monsoon
 monstercat
+montal
 montory
 moonshine
 moonsun
 moonthenight
 morpheus0x00
 moshearmor
+mosses
 mostov
 mostwanted2
 motorola95
@@ -2152,6 +2282,7 @@ moveaxeax
 mrQwerty
 mrcertipy
 mrfelina
+mrfreakman
 mrgh0st
 mrhensley
 mrxdark
@@ -2168,8 +2299,10 @@ n3tstalker
 n3xtr4n
 nakedpoet
 namecheap
+narbut
 narikvasya
 narow71
+ne100baksov
 nelly12
 neonh4ze
 neopaket
@@ -2200,27 +2333,34 @@ notYukinot
 nota9
 notanaddict
 nu_takoe123
+nullify
 nullptr
 number1crime
 nvortex
 o1oo1
+obfuscatable
 obkobk
 obmanPT
 obnalhelper
 officialdocmarket
 ofmd
 okihad
+oldMoisey
 oldtimer
+omgdev1
 onTAKE
 onek1lo
 onepoint61
 onionkr
+opel
 optema
 ordinaria1
 orshan
 osintservice
+osmosis
 other88832
 ovorho1ne
+owlx
 ownerofxssis
 ox1y
 oxygen
@@ -2232,6 +2372,8 @@ pafke
 pain1337
 palachpro
 palenkovarinka
+pandora789
+paradoxy
 parasonik
 parisweb
 parovozz
@@ -2247,6 +2389,7 @@ pengyou234
 peno333
 pentesterfromhell
 peopleware
+perry_platypus
 personasrataxxs
 pestexterminator
 petlix
@@ -2283,6 +2426,7 @@ profitmaster
 projectACI
 proofofaddress
 proooxy
+prorab
 prosper
 prostoezlo
 prostoman
@@ -2308,6 +2452,7 @@ qwertyqzpm
 qyzet
 r0d
 r11492962
+r1ht3r
 r1z
 r3b1nd
 r3xq1
@@ -2315,6 +2460,7 @@ r4cket3er
 r_as
 rabbit
 ragnarog
+ragnerrok
 raichu
 rainfill
 rainkraft
@@ -2326,6 +2472,7 @@ rand
 raoulduke666
 rask0lnik0v
 rceinn
+rdpshopper
 readmer
 real
 realism
@@ -2337,6 +2484,7 @@ redkite808
 redskull
 refer61
 reg
+remzio
 reqwest
 resell
 resemble_x
@@ -2351,11 +2499,13 @@ robomusk
 rock-n-rolla
 rocket_singh1993
 rokkkkkko
+romanblikoman
 romero_4h
 roro
 rosa
 roush
 roywork
+rozmarin
 rresearcherr
 rtkm
 rudadima
@@ -2369,8 +2519,13 @@ s0upn4z1
 s1ber1an
 s1mm0rtal
 s1ren
+sa-404
+sa_far
+sacre
 saidbek
+saimraza786
 saint sol
+saiteko
 salamander
 salmon8
 salvia
@@ -2407,6 +2562,9 @@ shadowrocket
 shadowstorm6
 shakalru
 shantar4m
+shears
+shellcode_
+shema
 shikraru2
 shivaNEW
 shkolnick1337
@@ -2424,6 +2582,7 @@ sifao
 sii
 sikidok
 silentgeek
+silentlink
 silvaqr
 simonlollipop
 simpleteaseller
@@ -2455,9 +2614,11 @@ sockcock
 softcash11s
 soldierboy
 solidaos
+somecomedy
 someweed
 soomerk
 sorax
+sorirk
 sorrow
 sosaaaa1337
 sosolau
@@ -2474,6 +2635,7 @@ stPTSR
 starstefa1
 stderr
 stelthon
+stenford
 stepany4
 stilirok
 stooper
@@ -2488,7 +2650,9 @@ svox11
 swagcat228
 swahhhhd
 swap3r
+sweetdoor
 swinkapepa
+swipestores
 swwwheart
 syntdev
 synten
@@ -2509,12 +2673,15 @@ ted_b3z4
 telemaster
 tempuser98
 tenac1ous
+tenzera
 tesla2021
 tg_moder
+th3g3ntl3man
 the-gost-pastor
 the_unknown
 theblacktr
 thekingkey
+theodore
 therealcorleone
 therealskeltah
 therinceple
@@ -2544,6 +2711,7 @@ trekhdenova00
 trentalex
 triblekill
 triplex560
+triplop
 trumpsacks
 trumpzerk
 trust me pls
@@ -2564,11 +2732,13 @@ umarum
 uncleNull
 unhappyangel
 unkn0wn
+unkn0wn dud3
 unkn0wnz
 unkunk
 unkw
 unlock_crypto_manager
 unruly007
+unsightly6500
 unticvare
 upro3
 urus
@@ -2576,15 +2746,18 @@ us3rn4m3
 usER9Ame
 usdervkontakte
 user_47
+userbl45
 username
 users_h8
 usersec
 useuseuse
+utkows
 utrom
 uzu
 v1545
 v2ray
 v3nuz
+v4vendetta
 vagabond
 valden
 valeraleontev
@@ -2595,6 +2768,7 @@ varga1017
 varwar
 vasilevsky322
 vatashino
+vbn23
 vbnfghg
 vborion
 vebxpert
@@ -2603,6 +2777,7 @@ vectorwheel
 vei
 vend0r
 venkat
+vercetti3
 vernicel
 vers
 vespiaryList
@@ -2612,6 +2787,7 @@ viktorselk
 viola87
 viperultra1
 viral_love
+visage23wr
 viskas
 vitae96
 vkash
@@ -2635,6 +2811,7 @@ w1thluv
 w3bwitcher
 waahoo
 waine
+wallis
 wasted1337
 wav
 weaver
@@ -2670,11 +2847,13 @@ x3Rx
 x3xex
 x4k
 x7phone
+xCENTURIONx
 xChimera
 xSTRANGEGHOST
 xWallet
 xXxbeSt
 xakep64
+xakfor
 xantares
 xargs
 xcbfax
@@ -2697,6 +2876,7 @@ xmyriy
 xnjjnoident
 xordecrypt
 xrahitel
+xsdxs
 xss_user
 xtho
 xtrfy
@@ -2727,6 +2907,7 @@ yurikino
 yutewiyof
 yyaponchik027
 yyds
+yyy9
 z00med
 z1d4n
 zGato
@@ -2738,10 +2919,12 @@ zaza1
 zdestuta
 zeez
 zelenobablo
+zepopa
 zer0_flipp
 zeroplayer
 zetaboy
 zeus_trd
+zexus
 ziaboro
 zillion
 zjcgg
