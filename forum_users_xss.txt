@@ -68,6 +68,7 @@
 9271d6ee
 AFromXYZ
 AGN
+AHTOLLlKA
 AK00
 AK13Auth
 AKella
@@ -85,6 +86,7 @@ AZZAR
 Abnoxa
 Absconder
 AccStore
+Access_Hunter
 AculaSwap
 Ahli
 Ahmed09
@@ -500,6 +502,7 @@ Forwanin
 Foxer
 FoxyProxy
 Franzzen
+Fray0bin
 Fredy
 FreeWar
 FreonMR
@@ -658,6 +661,7 @@ JerryPeks
 Jetske
 Jew_seller
 JimPam
+Joda
 JohnRipper
 Johnny_Catswill
 Jonathan
@@ -673,6 +677,7 @@ JustTheK
 K1Z4RU
 K4NVR4
 KAJIT
+KAM1KAZ3
 KATTTANA
 KDot
 KGMT_LorD
@@ -726,6 +731,7 @@ Komisstu
 Koonede
 Kotmart75
 Kovalyoff
+Kozinaaa
 KrakenBite
 Kraxs
 Kremlin Gremlin
@@ -957,6 +963,7 @@ OxDEADBEEF
 PAL1T
 PARADICE
 PAYDAY
+PPav
 PRNDL
 PabloEsk
 Pablo_G
@@ -1498,12 +1505,14 @@ azcord
 azercuriel
 azq
 azrek
+b0r1s0v
 b1n
 b3hindYou
 b4rts1mps0n
 b4ssb4b33
 babijon14
 bablodalo
+babloest
 babuin88
 babuka
 bacha
@@ -1558,6 +1567,7 @@ bitmixlist
 black-codes
 blackconvert556
 blackedge
+blackhand
 blackhat1717
 blackhunt
 blacknas
@@ -1668,6 +1678,7 @@ codesuprime
 codyptacek66
 cola_vanilla
 coldblunt
+colro
 complete
 coopermade1
 coordinator
@@ -1680,6 +1691,7 @@ crawlingmfer
 creativ_brain
 creeper44
 criminalxd
+crococola
 crokod2396
 crumble
 cryox
@@ -1944,6 +1956,7 @@ hammet
 handersen
 haojiao97899
 hashcode100
+hassh
 hawkerf
 he1to
 heikeji159357
@@ -2024,6 +2037,7 @@ javascriptbypass
 jaxaw
 jeneveq
 jenk
+jetmehanik
 jeweleronion
 jhonwick1990
 jmoon
@@ -2878,6 +2892,7 @@ xordecrypt
 xrahitel
 xsdxs
 xss_user
+xssagency
 xtho
 xtrfy
 xvxv
